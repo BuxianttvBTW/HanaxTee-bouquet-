@@ -1,0 +1,184 @@
+[
+  {
+    "query": "Hello Kitty cute romantic GIF with hearts",
+    "image_info": {
+      "url": "https://i.pinimg.com/originals/a1/b3/b1/a1b3b1492a379333ea53b0f795eaf86f.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 1124429,
+      "width": 498,
+      "height": 373,
+      "total_pixels": 185754,
+      "basic_score": 0.7192018352610055,
+      "file_name": "hello-kitty-cute-love-heart-animation.gif"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfect match for the search query and prompt. It is a high-quality, clean GIF of Hello Kitty featuring romantic heart elements. There are no watermarks or distracting logos, making it ideal for the requested use case.",
+      "file_name": "hello-kitty-cute-love-heart-animation.gif",
+      "caption": "A cute animated GIF of Hello Kitty blowing a pink heart, set against a large, pink quilted heart background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Hello Kitty cute romantic GIF with hearts",
+    "image_info": {
+      "url": "https://i.pinimg.com/originals/ba/d6/bf/bad6bfef955149099003b79fbbb1ec92.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 355336,
+      "width": 344,
+      "height": 292,
+      "total_pixels": 100448,
+      "basic_score": 0.7067530145015954,
+      "file_name": "hello-kitty-cute-love-hearts.gif"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a perfect thematic match for the search query and prompt, featuring Hello Kitty with romantic pink hearts. It has a charming, hand-drawn aesthetic and is completely free of watermarks. While it is a static image rather than an animation, it perfectly captures the 'cute' and 'romantic' requirements.",
+      "file_name": "hello-kitty-cute-love-hearts.gif",
+      "caption": "A charming hand-drawn illustration of Hello Kitty featuring a large pink bow and several pink hearts floating around her head and appearing in her eyes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Hello Kitty cute romantic GIF with hearts",
+    "image_info": {
+      "url": "https://media1.giphy.com/media/jpqwTJ25fA9HzdeS8Z/giphy.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 142245,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8422686613622208,
+      "file_name": "hello-kitty-cute-romantic-heart-box.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image perfectly matches the 'Hello Kitty' and 'cute love' theme, featuring hearts and a romantic gift box. However, it is a static image rather than a GIF as requested in the search query. The clarity is excellent with sharp, clean lines and no watermarks.",
+      "file_name": "hello-kitty-cute-romantic-heart-box.jpg",
+      "caption": "A charming digital illustration of Hello Kitty holding a pink heart-shaped gift box with a red bow, wearing a decorative bow with stars and hearts on her ear.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Realistic bouquet of roses lilies baby breath flowers",
+    "image_info": {
+      "url": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1747083468/vendor/6725/catalog/product/2/0/20180913074702_file_5b9abeb6cc992.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 113714,
+      "width": 719,
+      "height": 1080,
+      "total_pixels": 776520,
+      "basic_score": 0.8976670928546464,
+      "file_name": "realistic-bouquet-roses-lilies-babys-breath.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 85.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query, featuring a realistic and professionally arranged bouquet of light pink roses, white lilies, and baby's breath. The clarity is excellent, with visible details like dew drops on the petals. There is a small logo/watermark in the bottom right corner, which slightly impacts the score.",
+      "file_name": "realistic-bouquet-roses-lilies-babys-breath.jpg",
+      "caption": "A stunning floral arrangement in a tall glass vase, showcasing soft peach-colored roses, a prominent white lily, and clusters of white baby's breath surrounded by lush green foliage.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Realistic bouquet of roses lilies baby breath flowers",
+    "image_info": {
+      "url": "https://i.etsystatic.com/24855591/r/il/614a8b/4261822586/il_570xN.4261822586_qlvp.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 57720,
+      "width": 570,
+      "height": 600,
+      "total_pixels": 342000,
+      "basic_score": 0.803960520330107,
+      "file_name": "realistic-white-rose-calla-lily-babys-breath-bouquet.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image perfectly matches the search query, featuring roses, calla lilies, and baby's breath. Although the flowers appear to be high-quality silk/artificial ones, they are very realistic in appearance. The photo is clear, well-composed, and free of any watermarks.",
+      "file_name": "realistic-white-rose-calla-lily-babys-breath-bouquet.jpg",
+      "caption": "A realistic artificial bridal bouquet featuring creamy white roses, elegant calla lilies, and delicate sprigs of white baby's breath, held against a woven wicker background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Realistic bouquet of roses lilies baby breath flowers",
+    "image_info": {
+      "url": "https://www.wholeblossoms.com/wedding-flowers-blog/wp-content/uploads/2024/01/IMG_8348-min.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 216916,
+      "width": 1284,
+      "height": 1561,
+      "total_pixels": 2004324,
+      "basic_score": 0.7149267098931775,
+      "file_name": "white-roses-babys-breath-bridal-bouquet.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is a high-quality, professional photograph of a realistic wedding bouquet. It perfectly showcases white roses and baby's breath as requested, though it lacks the lilies mentioned in the search query. Despite the missing floral element, the composition and clarity are excellent.",
+      "file_name": "white-roses-babys-breath-bridal-bouquet.jpg",
+      "caption": "A professional close-up of a bride holding a large, elegant bouquet featuring white roses and baby's breath against a white sequined wedding dress.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Realistic bouquet of roses lilies baby breath flowers",
+    "image_info": {
+      "url": "https://www.wholeblossoms.com/wedding-flowers-blog/wp-content/uploads/2024/01/IMG_8346-min-829x1024.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 89964,
+      "width": 829,
+      "height": 1024,
+      "total_pixels": 848896,
+      "basic_score": 0.9057132987286014,
+      "file_name": "white-roses-and-babys-breath-floral-arrangement.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image is a high-quality, realistic photograph of a floral arrangement featuring white roses and baby's breath. However, it does not include lilies, which were requested in the search query. The lighting and professional composition make it a very strong image despite the missing flower type.",
+      "file_name": "white-roses-and-babys-breath-floral-arrangement.jpg",
+      "caption": "A professional, soft-focus photograph of a floral centerpiece featuring clusters of white baby's breath and several white roses, accompanied by a warm candle glow in the foreground.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
